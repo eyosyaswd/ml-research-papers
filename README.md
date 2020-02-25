@@ -1,2 +1,2 @@
 # ML Research Papers
-Machine learning research papers that I read and/or implement.
+This repository contains machine learning research papers that I read, annotate, and/or implement. 
