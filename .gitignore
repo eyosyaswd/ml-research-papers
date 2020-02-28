@@ -1,1 +1,3 @@
 # Ignores specified files/folders, i.e. IDE generated files/folders.
+.ipynb_checkpoints
+data/
