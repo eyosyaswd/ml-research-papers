@@ -12,7 +12,7 @@ Using Anaconda Prompt, recreate the provided environment using:
 Activate the environment using:
 <pre>conda activate ml-research-papers</pre>
 
-## Updating Code
+## Updating Libraries
 If new libraries were downloaded, use the following to update the YAML file that contains the environment:
 <pre>conda env export --name ml-research-papers > environment.yml</pre>
 
