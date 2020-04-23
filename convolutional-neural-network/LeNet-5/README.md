@@ -21,3 +21,4 @@ The MNIST dataset contains 70,000 images of  handwritten digits (0-9) . The goal
 
 ## Helpful Resources
 1. [LeNet-5 - A Classic CNN Architecture](https://engmrk.com/lenet-5-a-classic-cnn-architecture/)
+2. [Extending PyTorch with Custom Activation Functions](https://towardsdatascience.com/extending-pytorch-with-custom-activation-functions-2d8b065ef2fa)
